@@ -1,0 +1,10 @@
+C:\Users\Souleymane Bamba\Desktop\DotnetTest\bin\Debug\netcoreapp2.0\DotnetTest.deps.json
+C:\Users\Souleymane Bamba\Desktop\DotnetTest\bin\Debug\netcoreapp2.0\DotnetTest.runtimeconfig.json
+C:\Users\Souleymane Bamba\Desktop\DotnetTest\bin\Debug\netcoreapp2.0\DotnetTest.runtimeconfig.dev.json
+C:\Users\Souleymane Bamba\Desktop\DotnetTest\bin\Debug\netcoreapp2.0\DotnetTest.dll
+C:\Users\Souleymane Bamba\Desktop\DotnetTest\bin\Debug\netcoreapp2.0\DotnetTest.pdb
+C:\Users\Souleymane Bamba\Desktop\DotnetTest\obj\Debug\netcoreapp2.0\DotnetTest.csproj.CoreCompileInputs.cache
+C:\Users\Souleymane Bamba\Desktop\DotnetTest\obj\Debug\netcoreapp2.0\DotnetTest.AssemblyInfoInputs.cache
+C:\Users\Souleymane Bamba\Desktop\DotnetTest\obj\Debug\netcoreapp2.0\DotnetTest.AssemblyInfo.cs
+C:\Users\Souleymane Bamba\Desktop\DotnetTest\obj\Debug\netcoreapp2.0\DotnetTest.dll
+C:\Users\Souleymane Bamba\Desktop\DotnetTest\obj\Debug\netcoreapp2.0\DotnetTest.pdb
